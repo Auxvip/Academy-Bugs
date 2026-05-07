@@ -100,13 +100,11 @@ Testes exploratórios serão realizados para **descobrir bugs inseridos proposit
 ---
 
 ## 9. Itens de Entrega
-
-- TEST_PLAN.md  
+- https://github.com/Auxvip/Academy-Bugs/wiki
+ 
 - TEST_CASES.md  
 - EXECUTION_RESULTS.md  
 - BUG_REPORTS.md  
-- Screenshots (capturas de tela)
-- AUTOMATION
 
 ---
 
