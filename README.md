@@ -4,6 +4,9 @@
 
 Este plano de testes descreve a abordagem, o escopo, os recursos e o cronograma para a execução de testes no site **https://academybugs.com/find-bugs/**. O objetivo é identificar bugs propositalmente inseridos na aplicação, praticar técnicas de teste exploratório e registrar artefatos de teste conforme práticas recomendadas pelo CTFL (ISTQB Foundation Level).
 
+Arquivos adicionais como Casos de teste, Execução de testes, report de Bugs encontram-se no WIKI
+- https://github.com/Auxvip/Academy-Bugs/wiki
+
 O uso deste site é **exclusivamente educacional para fins de estudo e portfólio de QA**.
 
 ---
